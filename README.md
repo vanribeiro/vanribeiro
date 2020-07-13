@@ -1,8 +1,8 @@
 # Van Ribeiro
 [![Github Badge](https://img.shields.io/badge/-Github-800080?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vanribeiro)](https://github.com/vanribeiro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-800080?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vanribeiro/)](https://www.linkedin.com/in/vanribeiro/)
-[![Instagram](https://img.shields.io/badge/-Instagram-800080?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vanribeirodev)](https://instagram.com/vanribeirodev)
-[![Twitter](https://img.shields.io/badge/-Twiiter-800080?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/vanribeiro.dev)](https://twitter.com/vanribeiro.dev)
+[![Instagram](https://img.shields.io/badge/-Instagram-800080?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vanribeiro.dev)](https://instagram.com/vanribeiro.dev)
+[![Twitter](https://img.shields.io/badge/-Twiiter-800080?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/vanribeirodev)](https://twitter.com/vanribeirodev)
 
 I have a degree in Computer Science. Knowledge of HTML, CSS, JavaScript and concepts such as Responsive Design and Mobile First. Good analytical, reasoning and creativity skills.
 
