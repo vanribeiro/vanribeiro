@@ -1,8 +1,12 @@
 # Van Ribeiro
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vanribeiro)](https://github.com/vanribeiro)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanribeiro/)](https://www.linkedin.com/in/vanribeiro/)
-[![Twitter URL](https://img.shields.io/badge/-Twitter?color=white&label=vanribeirodev&logo=twitter&logoColor=white&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fvanribeirodev)](https://twitter.com/vanribeirodev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-800080?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vanribeiro/)](https://www.linkedin.com/in/vanribeiro/)
+[![Instagram](https://img.shields.io/badge/-@vanribeiro.dev-800080?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vanribeirodev)](https://instagram.com/vanribeirodev)
+[![Twitter](https://img.shields.io/badge/-@vanribeirodev-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/vanribeiro.dev)](https://twitter.com/vanribeiro.dev)
 
+I have a degree in Computer Science. Knowledge of HTML, CSS, JavaScript and concepts such as Responsive Design and Mobile First. Good analytical, reasoning and creativity skills.
+
+Currently, I try to improve my development and programming skills, creating small projects, to develop experiences with practical problem solving using computing.
 
 <!--
 **vanribeiro/vanribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
