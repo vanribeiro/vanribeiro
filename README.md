@@ -8,6 +8,8 @@ I have a degree in Computer Science. Knowledge of HTML, CSS, JavaScript and conc
 
 Currently, I try to improve my development and programming skills, creating small projects, to develop experiences with practical problem solving using computing.
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@28299004-b981-40ef-8de3-722bce19236e/4b89e2a9-d6b2-4b9c-a156-702d260e1638.png" /></a>
+
 <!--
 **vanribeiro/vanribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
