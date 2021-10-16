@@ -8,6 +8,7 @@ I have a degree in Computer Science. Knowledge of HTML, CSS, JavaScript and conc
 
 Currently, I try to improve my development and programming skills, creating small projects, to develop experiences with practical problem solving using computing.
 
+<!--
 <div>
   
   
@@ -27,7 +28,7 @@ Currently, I try to improve my development and programming skills, creating smal
     </td>
   </tr>
 </table>
-
+-->
 <!--
 **vanribeiro/vanribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
