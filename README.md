@@ -4,9 +4,9 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-800080?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vanribeiro.dev)](https://instagram.com/vanribeiro.dev)
 [![Twitter](https://img.shields.io/badge/-Twiiter-800080?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/vanribeirodev)](https://twitter.com/vanribeirodev)
 
-I have a degree in Computer Science. Knowledge of HTML, CSS, JavaScript and concepts such as Responsive Design and Mobile First. Good analytical, reasoning and creativity skills.
+As a Front-end Developer, in addition to HTML, CSS, JavaScript, I have in my dev toolbox technologies such as SASS, Git, Github, React, Styled Components, Figma and concepts such as web design responsive and mobile first. Also, I have a degree in Computer Science.
 
-Currently, I try to improve my development and programming skills, creating small projects, to develop experiences with practical problem solving using computing.
+Currently, I seek to improve my development and programming skills, creating small projects, to develop experiences with practical problem solving using programming, in addition to courses focused on the area.
 
 <table>
   <tr>
