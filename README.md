@@ -7,7 +7,7 @@
 As a Front-end Developer, in addition to HTML, CSS, JavaScript, I have in my dev toolbox technologies such as SASS, Git, Github, React, Styled Components, Figma and concepts such as web design responsive and mobile first. Also, I have a degree in Computer Science.
 
 Currently, I seek to improve my development and programming skills, creating small projects, to develop experiences with practical problem solving using programming, in addition to courses focused on the area.
-
+<!--
 <table>
   <tr>
     <td valign="middle">
@@ -22,6 +22,7 @@ Currently, I seek to improve my development and programming skills, creating sma
     </td>
   </tr>
 </table>
+-->
 <!--
 **vanribeiro/vanribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
