@@ -1,8 +1,8 @@
 # Van Ribeiro
-[![Github Badge](https://img.shields.io/badge/-Github-800080?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vanribeiro)](https://github.com/vanribeiro)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-800080?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vanribeiro/)](https://www.linkedin.com/in/vanribeiro/)
-[![Instagram](https://img.shields.io/badge/-Instagram-800080?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vanribeiro.dev)](https://instagram.com/vanribeiro.dev)
-[![Twitter](https://img.shields.io/badge/-Twiiter-800080?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/vanribeirodev)](https://twitter.com/vanribeirodev)
+[![Github Badge](https://img.shields.io/badge/-Github-eca769?style=flat-square&logo=Github&logoColor=1c1c1c&link=https://github.com/vanribeiro)](https://github.com/vanribeiro)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-eca769?style=flat-square&logo=linkedin&logoColor=1c1c1c&link=https://www.linkedin.com/in/vanribeiro/)](https://www.linkedin.com/in/vanribeiro/)
+[![Instagram](https://img.shields.io/badge/-Instagram-eca769?style=flat-square&logo=instagram&logoColor=1c1c1c&link=https://instagram.com/vanribeiro.dev)](https://instagram.com/vanribeiro.dev)
+[![Twitter](https://img.shields.io/badge/-Twitter-eca769?style=flat-square&logo=twitter&logoColor=1c1c1c&link=https://twitter.com/vanribeirodev)](https://twitter.com/vanribeirodev)
 
 As a Front-end Developer, in addition to HTML, CSS, JavaScript, I have in my dev toolbox technologies such as SASS, Git, Github, React, Styled Components, Figma and concepts such as web design responsive and mobile first. Also, I have a degree in Computer Science.
 
