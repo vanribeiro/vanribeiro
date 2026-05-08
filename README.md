@@ -27,9 +27,10 @@ I collaborate closely with cross-functional agile teams, contributing to technic
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanribeiro&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanribeiro&layout=compact&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanribeiro&show_icons=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanribeiro&layout=compact&hide_border=true" height="160" />
 </p>
+
 
 ---
 
