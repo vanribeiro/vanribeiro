@@ -31,8 +31,6 @@ I collaborate closely with cross-functional agile teams, contributing to technic
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanribeiro&layout=compact&hide_border=true&cache_seconds=86400" height="160" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanribeiro&layout=compact)
-
 ---
 
 ## 💼 Professional Experience
