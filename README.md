@@ -1,4 +1,4 @@
-# Hi 👋 I'm Vanessa Ribeiro
+# Hi 👋 I'm Van Ribeiro
 
 Senior Front-End Developer with strong experience delivering enterprise-scale web applications for medium and large projects. I focus on building scalable, maintainable, and high-quality front-end solutions aligned with business and technical goals.
 
@@ -14,29 +14,34 @@ I collaborate closely with cross-functional agile teams, contributing to technic
 
 ## 🛠 Tech Stack
 
-**Languages**
+### Languages
+
 - TypeScript
 - JavaScript (ES6+)
 - HTML5
 - CSS3
 
-**Frameworks & Libraries**
+### Frameworks & Libraries
+
 - React
 - Next.js
 
-**Cloud & DevOps**
+### Cloud & DevOps
+
 - Microsoft Azure
 - Azure DevOps
 - CI/CD pipelines
 
-**Engineering Practices**
+### Engineering Practices
+
 - Front-End Architecture
 - REST API Integration
 - Performance Optimization
 - Clean Code
 - Code Reviews
 
-**Methodologies**
+### Methodologies
+
 - Agile / Scrum
 
 ---
@@ -61,9 +66,9 @@ I collaborate closely with cross-functional agile teams, contributing to technic
 
 ## 🌐 Find Me Online
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vanribeiro  
-- 💻 Portfolio: https://vanribeiro.github.io  
-- ✍️ Blog: https://dev.to/vanribeiro  
+- 💼 LinkedIn: <https://www.linkedin.com/in/vanribeiro>  
+- 💻 Portfolio: <https://vanribeiro.github.io>  
+- ✍️ Blog: <https://dev.to/vanribeiro>  
 
 ---
 
